@@ -22,7 +22,7 @@ author:
   avatar           : "images/avatar.png"
   bio              : "AI Algorithm Engineer in Computer Vision"
   location         : "Shenzhen, China"
-  employer         : "Motern AI"  # Shenzhen Motern Technology Co., Ltd.
+  employer         : # Shenzhen Motern Technology Co., Ltd.
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AunSnE4AAAAJ"
   email            : "2021252439@qq.com"

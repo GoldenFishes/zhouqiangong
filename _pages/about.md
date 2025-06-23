@@ -19,7 +19,8 @@ redirect_from:
 
 # About Me
 
-
+# Educations
+- *2020.09 - 2024.06*, Bachelor of Science. in Data Science and Big Data Technology, Beijing Institute of Technology, Zhuhai, China.
 
 # Publications 
 
@@ -28,7 +29,7 @@ redirect_from:
 
 **Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2**
 
-[**Project**](https://github.com/motern88/Det-SAM2)  [**Tech Report**](https://arxiv.org/abs/2411.18977) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:9yKSN-GCB0IC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2411.18977)  [**Project**](https://github.com/motern88/Det-SAM2) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:9yKSN-GCB0IC'></span></strong>
 
 We developed a real-time video stream inference pipeline based on SAM2, which integrates an object detection model to automatically provide conditional prompts for long video segmentation.
 This is the first fully functional self-prompted SAM2 framework for long videos. It supports advanced features such as online addition of new categories during inference and preloading a memory bank.
@@ -42,7 +43,7 @@ Furthermore, the pipeline maintains constant GPU and CPU memory usage throughout
 
 **HiLight: Technical Report on the Motern AI Video Language Model**
 
-[**Project**](https://github.com/motern88/HiLight)  [**Tech Report**](https://arxiv.org/abs/2407.07325) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Paper**](https://arxiv.org/abs/2407.07325)  [**Project**](https://github.com/motern88/HiLight) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:d1gkVwhDpl0C'></span></strong>
 
 We first design a VideoEncoder with finer-grained modality alignment by introducing a contrastive loss between patches and tokens based on CLIP-ViP.
 Then, we build a dual-tower vision encoder composed of the improved CLIP-ViP and Long-CLIP, which extracts both video and image features.
@@ -56,7 +57,7 @@ The fused visual features are fed into the Gemma-2B language model, enabling vid
 
 **FreeV:Free Lunch in MultiModal Diffusion U-ViT**
 
-[**Project**](https://github.com/GoldenFishes/FreeV)  [**Paper**](https://www.authorea.com/doi/full/10.36227/techrxiv.24633840.v1) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Paper**](https://www.authorea.com/doi/full/10.36227/techrxiv.24633840.v1)  [**Project**](https://github.com/GoldenFishes/FreeV) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:u-x6o8ySG0sC'></span></strong>
 
 We propose FreeV, an adaptation of the FreeU strategy—originally designed for U-Net—into the Transformer-based U-ViT architecture.
 FreeV significantly improves generation quality without additional training or fine-tuning.
@@ -77,10 +78,3 @@ However, it effectively complements the encoder-decoder structure by improving h
 </div>
 </div>
 
-
-# Educations
-- *2020.09 - 2024.06*, Bachelor of Science. in Data Science and Big Data Technology, Beijing Institute of Technology, Zhuhai, China.
-
-
-# Visitor Map
-<script type="text/javascript" src="//http://rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
