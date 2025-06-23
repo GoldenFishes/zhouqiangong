@@ -24,9 +24,9 @@ redirect_from:
 
 # Publications 
 
-<div class='paper-box' style="width: 100%; display: flex; flex-direction: column;">
-<div class='paper-box-image' style="width: 100%; margin-bottom: 15px;">
-<img src='images/Det-SAM2.jpg' alt="sym" width="100%; max-height: 200px; object-fit: cover;">
+<div class='paper-box' style="width: 100%;">
+<div class='paper-box-image' style="width: 100%; display: flex; margin-bottom: 15px;">
+<img src='images/Det-SAM2.jpg' alt="Det-SAM2" width="100%; max-height: 200px; object-fit: cover;">
 </div>
 
 <div class='paper-box-text' markdown="1" style="width: 100%;">
