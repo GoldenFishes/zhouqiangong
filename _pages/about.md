@@ -24,7 +24,7 @@ redirect_from:
 
 # Publications 
 
-<div class='paper-box' style="display: flex; flex-direction: column; align-items: center;">
+<div class='paper-box' style="width: 100%; display: flex; flex-direction: column;">
 <div class='paper-box-image' style="width: 100%; margin-bottom: 15px;">
 <img src='images/Det-SAM2.jpg' alt="sym" width="100%; max-height: 200px; object-fit: cover;">
 </div>
