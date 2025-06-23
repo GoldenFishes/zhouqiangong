@@ -41,9 +41,9 @@ redirect_from:
 
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
-  <div class='paper-box-image' style="width: 100%; display: flex; margin-bottom: 15px;">
-    <img src='images/HiLight.jpg' alt="HiLight" style="flex: 7; max-height: 200px; object-fit: contain;">
-    <img src='images/CLIP-ViP-PLUS.jpg' alt="CLIP-ViP-PLUS" style="flex: 3; max-height: 200px; object-fit: contain;">
+  <div class='paper-box-image' style="width: 100%; display: flex; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
+    <img src='images/HiLight.jpg' alt="HiLight" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
+    <img src='images/CLIP-ViP-PLUS.jpg' alt="CLIP-ViP-PLUS" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
   </div>
 
   <div class='paper-box-text' markdown="1" style="width: 100%;">
