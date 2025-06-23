@@ -1,14 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# 欢迎使用 Jekyll！
+# 这个配置文件用于设置整个网站的全局参数，也就是说，你通常只需要配置一次，之后基本不用改。
+# 出于技术原因，这个文件的改动不会自动生效，你必须在每次修改后重启服务器（即重新运行 jekyll serve 命令），改动才会应用。
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Qiangong Zhou's Homepage"
+description              : "Outside of work, I enjoy science fiction, gaming, music, and anime culture. "
+repository               : "GoldenFishes/zhouqiangong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,7 +22,7 @@ author:
   avatar           : "images/avatar.png"
   bio              : "AI Algorithm Engineer in Computer Vision"
   location         : "Shenzhen, China"
-  employer         : "Shenzhen Motern Technology Co., Ltd."
+  employer         : "Motern AI"  # Shenzhen Motern Technology Co., Ltd.
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AunSnE4AAAAJ"
   email            : "2021252439@qq.com"
@@ -45,7 +42,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-8696-6390"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
