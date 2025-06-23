@@ -24,13 +24,15 @@ redirect_from:
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display: flex; flex-direction: column; align-items: center;">
+<div class='paper-box-image' style="width: 100%; margin-bottom: 15px;">
+<img src='images/Det-SAM2.jpg' alt="sym" width="100%; max-height: 200px; object-fit: cover;">
+</div>
+
+<div class='paper-box-text' markdown="1" style="width: 100%;">
 
 **Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2**
-
 [**Paper**](https://arxiv.org/abs/2411.18977)  [**Project**](https://github.com/motern88/Det-SAM2) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:9yKSN-GCB0IC'></span></strong>
-
 We developed a real-time video stream inference pipeline based on SAM2, which integrates an object detection model to automatically provide conditional prompts for long video segmentation.
 This is the first fully functional self-prompted SAM2 framework for long videos. It supports advanced features such as online addition of new categories during inference and preloading a memory bank.
 Furthermore, the pipeline maintains constant GPU and CPU memory usage throughout, enabling efficient inference on arbitrarily long videos.
@@ -38,13 +40,16 @@ Furthermore, the pipeline maintains constant GPU and CPU memory usage throughout
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display: flex; flex-direction: column; align-items: center;">
+<div class='paper-box-image' style="width: 100%; margin-bottom: 15px;">
+<img src='images/HiLight.jpg' alt="sym" width="100%; max-height: 200px; object-fit: cover;">
+<img src='images/CLIP-ViP-PLUS.jpg' alt="sym" width="100%; max-height: 200px; object-fit: cover;">
+</div>
+
+<div class='paper-box-text' markdown="1" style="width: 100%;">
 
 **HiLight: Technical Report on the Motern AI Video Language Model**
-
 [**Paper**](https://arxiv.org/abs/2407.07325)  [**Project**](https://github.com/motern88/HiLight) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:d1gkVwhDpl0C'></span></strong>
-
 We first design a VideoEncoder with finer-grained modality alignment by introducing a contrastive loss between patches and tokens based on CLIP-ViP.
 Then, we build a dual-tower vision encoder composed of the improved CLIP-ViP and Long-CLIP, which extracts both video and image features.
 The fused visual features are fed into the Gemma-2B language model, enabling video-based dialogue capability.
@@ -52,13 +57,15 @@ The fused visual features are fed into the Gemma-2B language model, enabling vid
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display: flex; flex-direction: column; align-items: center;">
+<div class='paper-box-image' style="width: 100%; margin-bottom: 15px;">
+<img src='images/FreeV.jpg' alt="sym" width="100%; max-height: 200px; object-fit: cover;">
+</div>
+
+<div class='paper-box-text' markdown="1" style="width: 100%;">
 
 **FreeV:Free Lunch in MultiModal Diffusion U-ViT**
-
 [**Paper**](https://www.authorea.com/doi/full/10.36227/techrxiv.24633840.v1)  [**Project**](https://github.com/GoldenFishes/FreeV) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:u-x6o8ySG0sC'></span></strong>
-
 We propose FreeV, an adaptation of the FreeU strategy—originally designed for U-Net—into the Transformer-based U-ViT architecture.
 FreeV significantly improves generation quality without additional training or fine-tuning.
 The key insight is to balance the contributions from the backbone, skip connections, and fused features within U-ViT, maximizing its strengths while addressing its limitations in feature fusion.
@@ -66,8 +73,11 @@ The key insight is to balance the contributions from the backbone, skip connecti
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display: flex; flex-direction: column; align-items: center;">
+<div class='paper-box-image' style="width: 100%; margin-bottom: 15px;">
+</div>
+
+<div class='paper-box-text' markdown="1" style="width: 100%;">
 
 **Optimal Use of Attention Mechanisms: Comparative Study in U-Net for Image Segmentation Tasks**
 
