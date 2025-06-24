@@ -127,4 +127,5 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 <span class='anchor' id='cv'></span>
 # Curriculum Vitae
 You can download my chinese CV in PDF format from the following link:
-<a href="/zhouqiangong/docs/ZhouQianGong_CV.pdf" download="ZhouQianGong_CV_Chinese.pdf">Download CV</a>
+<a href="https://github.com/GoldenFishes/zhouqiangong/raw/main/docs/ZhouQianGong_CV.pdf" download="ZhouQianGong_CV_Chinese.pdf">Download CV</a>
+<!-- 将github链接中的blob改为raw即可形成下载链接 -->
