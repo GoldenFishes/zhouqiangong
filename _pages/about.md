@@ -18,9 +18,36 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
+Hello and welcome to my homepage!
+
+I was born in 2002 and am one of the many newcomers in the field of Artificial Intelligence.
+My primary research interests lie in Computer Vision, but I am also passionate about integrating multimodal learning to tackle real-world problems.
+
+I aim to simplify complex challenges by optimizing how problems are defined, and I’m committed to deepening my theoretical understanding of deep learning to gain broader perspectives.
+
+I’m always open to collaboration in any form — feel free to reach out to me via email at 2021252439@qq.com
 
 # Educations
 - *2020.09 - 2024.06*, Bachelor of Science. in Data Science and Big Data Technology, Beijing Institute of Technology, Zhuhai, China.
+
+# Skills
+🔹 Programming Languages:
+Proficient in Python; familiar with Java, C++, and R.
+
+🔹 Development Environment:
+Experienced in Linux development; comfortable with terminal-based workflows and scripting.
+
+🔹 Deep Learning Frameworks:
+Familiar with mainstream frameworks such as PyTorch; well-versed in popular algorithms in Computer Vision (CV) and Natural Language Processing (NLP).
+
+🔹 Model Lifecycle:
+Skilled in the full pipeline of model development, including design, training, lightweight optimization (e.g., quantization, pruning), and deployment.
+
+🔹 Machine Learning Methods:
+Solid understanding of machine learning, deep learning, and reinforcement learning techniques.
+
+🔹 Data Handling:
+Capable of building web crawlers, performing data cleaning, analysis, and visualization.
 
 # Publications 
 
@@ -89,4 +116,3 @@ redirect_from:
   However, it effectively complements the encoder-decoder structure by improving high-level semantic representation.
   </div>
 </div>
-
