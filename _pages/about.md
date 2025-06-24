@@ -15,8 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
+<span class='anchor' id='about_me'></span>
 # About Me
 Hello and welcome to my homepage!
 
@@ -27,9 +27,13 @@ I aim to simplify complex challenges by optimizing how problems are defined, and
 
 I’m always open to collaboration in any form — feel free to reach out to me via email at 2021252439@qq.com
 
+
+<span class='anchor' id='educations'></span>
 # Educations
 - *2020.09 - 2024.06*, Bachelor of Science. in Data Science and Big Data Technology, Beijing Institute of Technology, Zhuhai, China.
 
+
+<span class='anchor' id='skills'></span>
 # Skills
 🔹 Programming Languages:
 Proficient in Python; familiar with Java, C++, and R.
@@ -49,6 +53,8 @@ Solid understanding of machine learning, deep learning, and reinforcement learni
 🔹 Data Handling:
 Capable of building web crawlers, performing data cleaning, analysis, and visualization.
 
+
+<span class='anchor' id='publications'></span>
 # Publications 
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
