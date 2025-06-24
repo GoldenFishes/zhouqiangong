@@ -122,3 +122,9 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   However, it effectively complements the encoder-decoder structure by improving high-level semantic representation.
   </div>
 </div>
+
+
+<span class='anchor' id='cv'></span>
+# Curriculum Vitae
+You can download my chinese CV in PDF format from the following link:
+<a href="docs/ZhouQianGong_CV(Chinese).pdf" download="ZhouQianGong_cv.pdf">Download CV</a>
