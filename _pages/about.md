@@ -59,7 +59,6 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; margin-bottom: 15px;">
-    <div class="badge">Video Segmentation</div>
     <img src='images/Det-SAM2.jpg' alt="Det-SAM2" style="width: 100%; max-height: 200px; object-fit: contain;">
   </div>
 
@@ -73,13 +72,14 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   We developed a real-time video stream inference pipeline based on SAM2, which integrates an object detection model to automatically provide conditional prompts for long video segmentation.
   This is the first fully functional self-prompted SAM2 framework for long videos. It supports advanced features such as online addition of new categories during inference and preloading a memory bank.
   Furthermore, the pipeline maintains constant GPU and CPU memory usage throughout, enabling efficient inference on arbitrarily long videos.
+  
+  Key words: Video Segmentation, SAM2
   </div>
 </div>
 
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
-    <div class="badge">Video Language Model</div>
     <img src='images/HiLight.jpg' alt="HiLight" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
     <img src='images/CLIP-ViP-PLUS.jpg' alt="CLIP-ViP-PLUS" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
   </div>
@@ -94,13 +94,14 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   We first design a VideoEncoder with finer-grained modality alignment by introducing a contrastive loss between patches and tokens based on CLIP-ViP.
   Then, we build a dual-tower vision encoder composed of the improved CLIP-ViP and Long-CLIP, which extracts both video and image features.
   The fused visual features are fed into the Gemma-2B language model, enabling video-based dialogue capability.
+  
+  Key words: Video Language Model, CLIP-ViP, Long-CLIP, Gemma-2B
   </div>
 </div>
 
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; margin-bottom: 15px;">
-    <div class="badge">Diffusion Model</div>
     <img src='images/FreeV.jpg' alt="FreeV" style="width: 100%; max-height: 200px; object-fit: contain;">
   </div>
 
@@ -114,13 +115,14 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   We propose FreeV, an adaptation of the FreeU strategy—originally designed for U-Net—into the Transformer-based U-ViT architecture.
   FreeV significantly improves generation quality without additional training or fine-tuning.
   The key insight is to balance the contributions from the backbone, skip connections, and fused features within U-ViT, maximizing its strengths while addressing its limitations in feature fusion.
+  
+  Key words: U-ViT, Diffusion Model
   </div>
 </div>
 
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; margin-bottom: 15px;">
-    <div class="badge">Attention Mechanism</div>
     <img src='images/Optimal_Use_of_Attention_Mechanisms.jpg' alt="Optimal_Use_of_Attention_Mechanisms" style="width: 100%; max-height: 200px; object-fit: contain;">
   </div>
   <div class='paper-box-text' markdown="1" style="width: 100%;">
@@ -132,6 +134,8 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   
   The study finds that while attention can enhance channel-wise feature weighting, it may negatively affect the backbone's convolutional feature extraction.
   However, it effectively complements the encoder-decoder structure by improving high-level semantic representation.
+  
+  Key words: Attention Mechanism, U-Net, Image Segmentation
   </div>
 </div>
 
