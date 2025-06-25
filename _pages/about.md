@@ -73,7 +73,7 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   This is the first fully functional self-prompted SAM2 framework for long videos. It supports advanced features such as online addition of new categories during inference and preloading a memory bank.
   Furthermore, the pipeline maintains constant GPU and CPU memory usage throughout, enabling efficient inference on arbitrarily long videos.
   
-  Key words: Video Segmentation, SAM2
+  **Key words**: Video Segmentation, SAM2
   </div>
 </div>
 
@@ -95,7 +95,7 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   Then, we build a dual-tower vision encoder composed of the improved CLIP-ViP and Long-CLIP, which extracts both video and image features.
   The fused visual features are fed into the Gemma-2B language model, enabling video-based dialogue capability.
   
-  Key words: Video Language Model, CLIP-ViP, Long-CLIP, Gemma-2B
+  **Key words**: Video Language Model, CLIP-ViP, Long-CLIP, Gemma-2B
   </div>
 </div>
 
@@ -116,7 +116,7 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   FreeV significantly improves generation quality without additional training or fine-tuning.
   The key insight is to balance the contributions from the backbone, skip connections, and fused features within U-ViT, maximizing its strengths while addressing its limitations in feature fusion.
   
-  Key words: U-ViT, Diffusion Model
+  **Key words**: U-ViT, Diffusion Model
   </div>
 </div>
 
@@ -135,7 +135,7 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   The study finds that while attention can enhance channel-wise feature weighting, it may negatively affect the backbone's convolutional feature extraction.
   However, it effectively complements the encoder-decoder structure by improving high-level semantic representation.
   
-  Key words: Attention Mechanism, U-Net, Image Segmentation
+  **Key words**: Attention Mechanism, U-Net, Image Segmentation
   </div>
 </div>
 
