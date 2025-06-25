@@ -36,7 +36,7 @@ I’m always open to collaboration in any form — feel free to reach out to me 
 <span class='anchor' id='skills'></span>
 # Skills
 🔹 Programming Languages:
-Proficient in Python; familiar with Java, C++, and R.
+Experienced in Python development; have a basic understanding of Java, C++, and R.
 
 🔹 Development Environment:
 Experienced in Linux development; comfortable with terminal-based workflows and scripting.
