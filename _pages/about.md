@@ -59,12 +59,15 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; margin-bottom: 15px;">
+    <div class="badge">Video Segmentation</div>
     <img src='images/Det-SAM2.jpg' alt="Det-SAM2" style="width: 100%; max-height: 200px; object-fit: contain;">
   </div>
 
   <div class='paper-box-text' markdown="1" style="width: 100%;">
   **Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2**
   
+  Zhiting Wang, **Qiangong Zhou**, Zongyang Liu
+
   [**Paper**](https://arxiv.org/abs/2411.18977)  [**Project**](https://github.com/motern88/Det-SAM2) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:9yKSN-GCB0IC'></span></strong>
   
   We developed a real-time video stream inference pipeline based on SAM2, which integrates an object detection model to automatically provide conditional prompts for long video segmentation.
@@ -76,6 +79,7 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
+    <div class="badge">Video Language Model</div>
     <img src='images/HiLight.jpg' alt="HiLight" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
     <img src='images/CLIP-ViP-PLUS.jpg' alt="CLIP-ViP-PLUS" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
   </div>
@@ -83,6 +87,8 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
   <div class='paper-box-text' markdown="1" style="width: 100%;">
   **HiLight: Technical Report on the Motern AI Video Language Model**
   
+  Zhiting Wang, **Qiangong Zhou**, Kangjie Yang, Zongyang Liu, Xin Mao
+
   [**Paper**](https://arxiv.org/abs/2407.07325)  [**Project**](https://github.com/motern88/HiLight) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:d1gkVwhDpl0C'></span></strong>
   
   We first design a VideoEncoder with finer-grained modality alignment by introducing a contrastive loss between patches and tokens based on CLIP-ViP.
@@ -94,11 +100,14 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; margin-bottom: 15px;">
+    <div class="badge">Diffusion Model</div>
     <img src='images/FreeV.jpg' alt="FreeV" style="width: 100%; max-height: 200px; object-fit: contain;">
   </div>
 
   <div class='paper-box-text' markdown="1" style="width: 100%;">
   **FreeV:Free Lunch in MultiModal Diffusion U-ViT**
+
+  **Qiangong Zhou**, Youyu Zhou ,Yahong Wang
 
   [**Paper**](https://www.authorea.com/doi/full/10.36227/techrxiv.24633840.v1)  [**Project**](https://github.com/GoldenFishes/FreeV) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:u-x6o8ySG0sC'></span></strong>
   
@@ -111,10 +120,13 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; margin-bottom: 15px;">
+    <div class="badge">Attention Mechanism</div>
     <img src='images/Optimal_Use_of_Attention_Mechanisms.jpg' alt="Optimal_Use_of_Attention_Mechanisms" style="width: 100%; max-height: 200px; object-fit: contain;">
   </div>
   <div class='paper-box-text' markdown="1" style="width: 100%;">
   **Optimal Use of Attention Mechanisms: Comparative Study in U-Net for Image Segmentation Tasks**
+
+  **Qiangong Zhou**, Guanzhang Su, Jiayi Chen, Yuangen Chen, Youyu Zhou
 
   [**Paper**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13063/130630L/Optimal-use-of-attention-mechanisms--comparative-study-in-U/10.1117/12.3021498.short) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:u5HHmVD_uO8C'></span></strong>
   
