@@ -58,7 +58,7 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 # Projects
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
-  <div class='paper-box-image' style="width: 100%; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
+  <div class='paper-box-image' style="width: 100%; display: flex; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
     <img src='images/Allen_AgentAction.jpg' alt="AgentAction" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
     <img src='images/Allen_MAS.jpg' alt="MAS" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
   </div>
