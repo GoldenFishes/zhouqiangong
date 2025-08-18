@@ -68,7 +68,7 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 
   **Qiangong Zhou**, Zhiting Wang, Mingyou Yao, Zongyang Liu
 
-  [**Project**](https://github.com/motern88/Allen) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:9yKSN-GCB0IC'></span></strong>
+  [**Tech Report**](https://arxiv.org/abs/2508.11294)  [**Project**](https://github.com/motern88/Allen) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:9yKSN-GCB0IC'></span></strong>
 
   We propose a novel Multi-Agent System (MAS) architecture that redefines the Step as the smallest unit within the MAS, 
   enabling agents to autonomously determine their own working modes and achieving unprecedented policy autonomy.
