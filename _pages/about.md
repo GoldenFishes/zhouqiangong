@@ -59,6 +59,25 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
+    <img src='images/UniTAF.jpg' alt="MAS" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
+  </div>
+
+  <div class='paper-box-text' markdown="1" style="width: 100%;">
+  **UniTAF:A Modular Framework for Joint Text-to-Speech and Audio-to-Face Modeling**
+
+  **Qiangong Zhou**, Nagasaka Tomohiro
+
+  [**Tech Report**](https://arxiv.org/abs/2602.15651)  [**Project**](https://github.com/GoldenFishes/UniTAF) <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:9yKSN-GCB0IC'></span></strong>
+
+  Merging independent TTS and A2F models, aiming to uniformly model the generation of audio and facial expressions. 
+  Directly modeling consistent expressions from TTS audio features, while extending the TTS's inherent emotion control mechanism to the entire joint model.
+
+  **Key words**: Text-to-Speech, Audio-to-Face Animation
+  </div>
+</div>
+
+<div class='paper-box' style="width: 100%; margin-bottom: 30px;">
+  <div class='paper-box-image' style="width: 100%; display: flex; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
     <img src='images/Allen_AgentAction.jpg' alt="AgentAction" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
     <img src='images/Allen_MAS.jpg' alt="MAS" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
   </div>
