@@ -59,7 +59,26 @@ Capable of building web crawlers, performing data cleaning, analysis, and visual
 
 <div class='paper-box' style="width: 100%; margin-bottom: 30px;">
   <div class='paper-box-image' style="width: 100%; display: flex; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
-    <img src='images/UniTAF.jpg' alt="MAS" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
+    <img src='images/TTT.jpg' alt="TTT" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
+  </div>
+
+  <div class='paper-box-text' markdown="1" style="width: 100%;">
+  **TTT in VLA Models: Exploring Training with Human Demonstrations**
+
+  **Qiangong Zhou**, Jiafeng Liang, Yimin Dong, Yang He, Hongxiang Li
+
+  [**Tech Report**](https://arxiv.org/abs/2610.32094)  <strong><span class='show_paper_citations' data='AunSnE4AAAAJ:9yKSN-GCB0IC'></span></strong>
+
+  We introduce fast-weight-based test-time training for long-horizon tasks, with cross-stage memory transfer and truncated backpropagation through time. 
+  We train a demonstration-conditioned action generation model using paired human demonstrations and robot trajectories.
+
+  **Key words**: Test-Time Training, VLA
+  </div>
+</div>
+
+<div class='paper-box' style="width: 100%; margin-bottom: 30px;">
+  <div class='paper-box-image' style="width: 100%; display: flex; justify-content: flex-start; margin-bottom: 15px; overflow-x: auto;">
+    <img src='images/UniTAF.jpg' alt="UniTAF" style="max-height: 200px; object-fit: scale-down; margin-right: 10px;">
   </div>
 
   <div class='paper-box-text' markdown="1" style="width: 100%;">
